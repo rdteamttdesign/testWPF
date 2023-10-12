@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-D:\Test Project\WpfNET\WpfNET\obj\Debug\net6.0-windows\
+D:\Test Project\testWPF\WpfNET\obj\Debug\net6.0-windows\
 WpfNET
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-D:\Test Project\WpfNET\WpfNET\App.xaml
+D:\Test Project\testWPF\WpfNET\App.xaml
 11407045341
 
-51101961169
+6-216697126
 1941709816142
 MainWindow.xaml;
 

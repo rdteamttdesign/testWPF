@@ -23,6 +23,27 @@ namespace WpfNET
         public MainWindow()
         {
             InitializeComponent();
+
+            InitDATA();
+        }
+        public void InitDATA()
+        {
+            var Itiim = new TestItem("check");
+            Itiim.TotalFunction();
+
+            var clone = Itiim.Clone();
+            var res = clone.Name.Contains("xxx");
+
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Button_Click2(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

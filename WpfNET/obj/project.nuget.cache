@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IS5qirbUQMYtd3G//CSfZyRGzICf+OxXdY7WizQEd2pHnP2zpIecG25j164HCoJenA+WDO2DfFjvxybbq6tE/Q==",
+  "dgSpecHash": "s2Uv8QXGr8Mh+lInnh0l2J9TeyH2kXmxAr5K7RLC3N52hALio2jbX0YEdh8zfx+bGh15Es9uefAqDxDf7Dxwug==",
   "success": true,
-  "projectFilePath": "D:\\Test Project\\WpfNET\\WpfNET\\WpfNET.csproj",
+  "projectFilePath": "D:\\Test Project\\testWPF\\WpfNET\\WpfNET.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

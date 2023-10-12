@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Test Project\\WpfNET\\WpfNET\\WpfNET.csproj": {}
+    "D:\\Test Project\\testWPF\\WpfNET\\WpfNET.csproj": {}
   },
   "projects": {
-    "D:\\Test Project\\WpfNET\\WpfNET\\WpfNET.csproj": {
+    "D:\\Test Project\\testWPF\\WpfNET\\WpfNET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Test Project\\WpfNET\\WpfNET\\WpfNET.csproj",
+        "projectUniqueName": "D:\\Test Project\\testWPF\\WpfNET\\WpfNET.csproj",
         "projectName": "WpfNET",
-        "projectPath": "D:\\Test Project\\WpfNET\\WpfNET\\WpfNET.csproj",
+        "projectPath": "D:\\Test Project\\testWPF\\WpfNET\\WpfNET.csproj",
         "packagesPath": "C:\\Users\\CDES013\\.nuget\\packages\\",
-        "outputPath": "D:\\Test Project\\WpfNET\\WpfNET\\obj\\",
+        "outputPath": "D:\\Test Project\\testWPF\\WpfNET\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CDES013\\AppData\\Roaming\\NuGet\\NuGet.Config",
